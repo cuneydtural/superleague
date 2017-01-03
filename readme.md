@@ -20,7 +20,7 @@ Tural\SuperLeague\SuperLeagueServiceProvider::class
 #### Facedes
 
 ```sh
-'SuperLeague' => \Tural\SuperLeague\Facades\SuperLeagueFacade::class
+'SuperLeague' => Tural\SuperLeague\Facades\SuperLeagueFacade::class
 ```
 
 #### Vendor Publish

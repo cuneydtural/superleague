@@ -1,0 +1,22 @@
+{
+  "name": "cuneydtural/superleague",
+  "license": "MIT",
+  "description": "Türkiye Futbol Federasyonu SüperLig Puan Durumu",
+  "keywords": ["süper lig", "puan cetveli", "tff", "süper lig sonuçlar", "puan durumu"],
+  "homepage": "https://github.com/cuneydtural/superleague",
+  "authors": [
+    {
+      "name": "cuneydtural",
+      "email": "turalcuneyd@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Tural\\SuperLeague\\": "src"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.9"
+  }
+}
